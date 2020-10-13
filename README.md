@@ -8,3 +8,5 @@ In this tutorial we will learn about the basic git commands,
 5. branching
 6. clone
 7. commit & etc
+
+Theis are some basic commands to work with git and github.
